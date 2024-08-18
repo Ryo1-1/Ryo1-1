@@ -1,4 +1,4 @@
-## Hi there 👋
+## Site sur l'apprentissage du japonais 👋
 
 <!--
 **Ryo1-1/Ryo1-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
